@@ -1,0 +1,14 @@
+Tag Counts:
+Tag,Count
+Untagged,8
+
+Port/Protocol Combination Counts:
+Port,Protocol,Count
+1024,80,1
+110,49156,1
+143,49158,1
+23,49154,1
+25,49155,1
+443,49153,1
+80,1024,1
+993,49157,1
